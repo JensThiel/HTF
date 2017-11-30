@@ -1,4 +1,4 @@
-package team.rats.HTF.controllers;
+package main.java.team.rats.HTF.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.propertyeditors.CustomDateEditor;
